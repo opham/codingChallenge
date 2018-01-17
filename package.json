@@ -1,0 +1,15 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "coding challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "olivier pham dang",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

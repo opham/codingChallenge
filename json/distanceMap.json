@@ -1,0 +1,74 @@
+{
+  "alphaCentauri": {
+    "snowdin": 66,
+    "tambi": 28,
+    "faerun": 60,
+    "norrath": 34,
+    "straylight": 34,
+    "tristram": 3,
+    "arbre": 108
+  },
+  "snowdin": {
+    "alphaCentauri": 66,
+    "tambi": 22,
+    "faerun": 12,
+    "norrath": 91,
+    "straylight": 121,
+    "tristram": 111,
+    "arbre": 71
+  },
+  "tambi": {
+    "alphaCentauri": 28,
+    "snowdin": 22,
+    "faerun": 39,
+    "norrath": 113,
+    "straylight": 130,
+    "tristram": 35,
+    "arbre": 40
+  },
+  "faerun": {
+    "alphaCentauri": 60,
+    "snowdin": 12,
+    "tambi": 39,
+    "norrath": 63,
+    "straylight": 21,
+    "tristram": 57,
+    "arbre": 83
+  },
+  "norrath": {
+    "alphaCentauri": 34,
+    "snowdin": 91,
+    "tambi": 113,
+    "faerun": 63,
+    "straylight": 9,
+    "tristram": 50,
+    "arbre": 60
+  },
+  "straylight": {
+    "alphaCentauri": 34,
+    "snowdin": 121,
+    "tambi": 130,
+    "faerun": 21,
+    "norrath": 9,
+    "tristram": 27,
+    "arbre": 81
+  },
+  "tristram": {
+    "alphaCentauri": 3,
+    "snowdin": 111,
+    "tambi": 35,
+    "faerun": 57,
+    "norrath": 50,
+    "straylight": 27,
+    "arbre": 90
+  },
+  "arbre": {
+    "alphaCentauri": 108,
+    "snowdin": 71,
+    "tambi": 40,
+    "faerun": 83,
+    "norrath": 60,
+    "straylight": 81,
+    "tristram": 90
+  }
+}
